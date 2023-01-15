@@ -1,3 +1,3 @@
-# C# BubbleSort
+# BubbleSort
 
 Bubble sort algorithm in c#.
