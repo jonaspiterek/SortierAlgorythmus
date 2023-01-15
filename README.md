@@ -1,3 +1,3 @@
-# CS-Algorythm
+# C# BubbleSort
 
-An algorythm that sorts full numbers in C#
+Bubble sort algorithm in c#.
